@@ -1,2 +1,5 @@
 /config
 keys.js
+.DS_Store
+.keys.js
+./config
